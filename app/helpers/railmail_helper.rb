@@ -1,3 +1,5 @@
+require 'rails_rinku'
+
 module RailmailHelper
   def delivery_body(raw)
 
